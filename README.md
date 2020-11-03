@@ -1,2 +1,0 @@
-# outlet-vue
-Pasin project
